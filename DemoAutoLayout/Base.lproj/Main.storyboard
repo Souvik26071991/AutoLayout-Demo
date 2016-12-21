@@ -77,11 +77,13 @@
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ISc-Cf-LUy">
                                 <rect key="frame" x="200" y="460" width="200" height="40"/>
-                                <color key="backgroundColor" red="0.86039870689655173" green="0.43558728448275802" blue="0.21931573275862065" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="backgroundColor" red="0.090196078430000007" green="0.59215686270000001" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="WFw-6K-jiC"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Sumita">
+                                    <color key="titleColor" red="0.52156862749999999" green="0.78039215689999997" blue="0.1960784314" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
                                 <variation key="default">
                                     <mask key="constraints">
                                         <exclude reference="WFw-6K-jiC"/>
